@@ -1,6 +1,9 @@
 """
 SpaceTime Network
 """
+"""
+Edited by: Dharv Patel
+"""
 import torch.nn as nn
 import numpy as np
 import torch
