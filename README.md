@@ -1,7 +1,2 @@
 # time-series-data-prediction-SSM
-A SSM architecture for time series data prediction on 'seemingly random' time series.
-
-***NEED TO UPLOAD ENTIRE DIRECTORY WITH CONFIG FILES AND OTHER DEPENDANCIES***
-
-
-***NOT SUITABLE FOR REPRODUCTION***
+A SSM architecture for time series data prediction on 'seemingly random' time series, in this case, stocks. But it can work on any kind of time series, tested on Weather data as well as stocks and it was able to predict macro trends as well as microtrends. Macrotrends being If the economy is booming, it predicted a consistent uptick in value over long periods, microtrends being fluctuations where occasionally we get dips in value due to intermittent results like Earnings reports or other local news in time.
